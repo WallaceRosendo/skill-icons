@@ -3,7 +3,7 @@
 <h3 align="center">Mostre suas habilidades no readme do Github com facilidade!</h3>
 <hr>
 
-<h3 align="center">Distribuído por Cloudflare Workers ⚡</h3>
+<h3 align="center">Distribuído por Cloudflare Workers ⚡</h3><br><br>
 
 NOTA 1: Este repositório é apenas um fork traduzido para facilitar o acesso e a utilização. O [repositório original](https://github.com/tandpfun/skill-icons) pertence ao usuário [Thijs](https://github.com/tandpfun).
 
