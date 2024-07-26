@@ -328,11 +328,11 @@ Aqui está a lista de todos os ícones suportados atualmente.
 
 ## 💖 Apoie o projeto
 
-Thank you so much already for using my projects! If you want to go a step further and support my open source work, buy me a coffee:
+Se você quiser dar um passo adiante e apoiar o projeto financeiramente, compre um café para autor:
 
 <a href='https://ko-fi.com/Q5Q860KQ2' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-To support the project directly, feel free to open issues for icon suggestions, or contribute with a pull request!
+Para apoiar o projeto diretamente, fique à vontade para abrir uma issue com sugestões de ícones ou contribuir com um pull request no [repositório original](https://github.com/tandpfun/skill-icons)!
 
 ##
 
