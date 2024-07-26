@@ -12,10 +12,10 @@ NOTA 2: Para manter os ícones consistentes e garantir o suporte do navegador, n
 # Documentação
 
 - [Exemplo](#exemplo)
-- [Especificando icones](#especificando-icones)
-- [Icones tematizados](#icones-tematizados)
-- [Icones por linha](#icones-por-linha)
-- [Centralizando icones](#centralizando-icones)
+- [Especificando ícones](#especificando-ícones)
+- [Ícones tematizados](#ícones-tematizados)
+- [Ícones por linha](#ícones-por-linha)
+- [Centralizando ícones](#centralizando-ícones)
 - [Lista de ícones](#lista-de-ícones)
 
 # Exemplo
@@ -27,35 +27,35 @@ NOTA 2: Para manter os ícones consistentes e garantir o suporte do navegador, n
 
 Copie e cole o bloco de código abaixo em seu readme para adicionar os ícones de habilidades!
 
-Altere `?i=js,html,css` para uma lista com suas habilidades separadas por uma ","! Você pode encontrar a lista completa de ícones [aqui](#lista-de-icones).
+Altere `?i=js,html,css` para uma lista com suas habilidades separadas por uma ","! Você pode encontrar a lista completa de ícones [aqui](#lista-de-ícones).
 
 ```md
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 ```
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 # Ícones tematizados
 
-Some icons have a dark and light themed background. You can specify which theme you want as a url parameter.
+Alguns ícones possuem fundo com tema claro e escuro. Você pode especificar qual tema quer utilizar em um parâmetro de URL.
 
-This is optional. The default theme is dark.
+Isso é opcional. O tema padrão é o escuro.
 
-Change the `&theme=light` to either `dark` or `light`. The theme is the background color, so light theme has a white icon background, and dark has a black-ish.
+Altere `&theme=light` para `dark` ou `light`. O tema se refere a cor de fundo, o tema claro tem um fundo de ícone branco e o escuro tem um fundo de ícone preto.
 
 **Exemplo com tema claro:**
 
 ```md
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,nodejs,figma,java&theme=light)](https://skillicons.dev)
 ```
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,nodejs,figma,java&theme=light)](https://skillicons.dev)
 
 # Ícones por linha
 
-You can specify how many icons you would like per line! It's an optional argument, and the default is 15.
+Você pode especificar quantos ícones deseja utilizar em cada linha! É um argumento opcional com o padrão sendo 15.
 
-Change the `&perline=3` to any number between 1 and 50.
+Mude o `&perline=3` para qualquer número entre 1 e 50.
 
 ```md
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
@@ -65,7 +65,7 @@ Change the `&perline=3` to any number between 1 and 50.
 
 # Centralizando ícones
 
-Want to center the icons in your readme? The SVGs are automatically resized, so you can do it the same way you'd normally center an image.
+Quer centralizar os ícones no seu readme? Os SVGs são redimensionados automaticamente, então você pode fazer isso do mesmo jeito que normalmente centralizaria uma imagem.
 
 ```html
 <p align="center">
@@ -83,9 +83,9 @@ Want to center the icons in your readme? The SVGs are automatically resized, so 
 
 # Lista de Ícones
 
-Here's a list of all the icons currently supported. Feel free to open an issue to suggest icons to add!
+Aqui está a lista de todos os ícones suportados atualmente.
 
-|      Icon ID       |                         Icon                          |
+|      ID do ícone       |                         Ícone                          |
 | :----------------: | :---------------------------------------------------: |
 |     `ableton`      |    <img src="./icons/Ableton-Dark.svg" width="48">    |
 |   `activitypub`    |  <img src="./icons/ActivityPub-Dark.svg" width="48">  |
