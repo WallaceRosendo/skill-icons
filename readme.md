@@ -1,31 +1,33 @@
 <p align="center"><img align="center" width="280" src="./.github/text-logo.svg#gh-dark-mode-only"/></p>
 <p align="center"><img align="center" width="280" src="./.github/text-logo-light.svg#gh-light-mode-only"/></p>
-<h3 align="center">Showcase your skills on your GitHub or resumé with ease!</h3>
+<h3 align="center">Mostre suas habilidades no readme do Github com facilidade!</h3>
 <hr>
 
-<h3 align="center">Powered by Cloudflare Workers ⚡</h3>
+<h3 align="center">Distribuído por Cloudflare Workers ⚡</h3>
 
-<h3>NOTE: To keep icons consistent and to ensure browser support, we don't accept pull requests for icon submissions. If you would like an icon added, please open an issue.<h3>
+NOTA 1: Este repositório é apenas um fork traduzido para facilitar o acesso e a utilização. O [repositório original](https://github.com/tandpfun/skill-icons) pertence ao usuário [Thijs](https://github.com/tandpfun).
 
-# Docs
+NOTA 2: Para manter os ícones consistentes e garantir o suporte do navegador, não são aceitas solicitações de envios de ícones. Se você quiser que um ícone seja adicionado, abra uma issue no [repositório original](https://github.com/tandpfun/skill-icons).
 
-- [Example](#example)
-- [Specifying Icons](#specifying-icons)
-- [Themed Icons](#themed-icons)
-- [Icons Per Line](#icons-per-line)
-- [Centering Icons](#centering-icons)
-- [Icons List](#icons-list)
+# Documentação
 
-# Example
+- [Exemplo](#exemplo)
+- [Especificando ícones](#especificando-icones)
+- [Ícones tematizados](#icones-tematizados)
+- [Ícones por linha](#icones-por-linha)
+- [Centralizando ícones](#centralizando-icones)
+- [Lista de Ícones](#lista-de-icones)
+
+# Exemplo
 
 <p align="center"><img align="center" src="./.github/example-dark.png#gh-dark-mode-only"/></p>
 <p align="center"><img align="center" src="./.github/example-light.png#gh-light-mode-only"/></p>
 
-# Specifying Icons
+# Especificando Ícones
 
-Copy and paste the code block below into your readme to add the skills icon element!
+Copie e cole o bloco de código abaixo em seu readme para adicionar os ícones de habilidades!
 
-Change the `?i=js,html,css` to a list of your skills separated by ","s! You can find a full list of icons [here](#icons-list).
+Altere `?i=js,html,css` para uma lista com suas habilidades separadas por uma ","! Você pode encontrar a lista completa de ícones [aqui](#lista-de-icones).
 
 ```md
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
@@ -33,7 +35,7 @@ Change the `?i=js,html,css` to a list of your skills separated by ","s! You can 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
-# Themed Icons
+# Ícones tematizados
 
 Some icons have a dark and light themed background. You can specify which theme you want as a url parameter.
 
@@ -41,7 +43,7 @@ This is optional. The default theme is dark.
 
 Change the `&theme=light` to either `dark` or `light`. The theme is the background color, so light theme has a white icon background, and dark has a black-ish.
 
-**Light Theme Example:**
+**Exemplo com tema claro:**
 
 ```md
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
@@ -49,7 +51,7 @@ Change the `&theme=light` to either `dark` or `light`. The theme is the backgrou
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
-# Icons Per Line
+# Ícones por linha
 
 You can specify how many icons you would like per line! It's an optional argument, and the default is 15.
 
@@ -61,7 +63,7 @@ Change the `&perline=3` to any number between 1 and 50.
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
-# Centering Icons
+# Centralizando ícones
 
 Want to center the icons in your readme? The SVGs are automatically resized, so you can do it the same way you'd normally center an image.
 
@@ -79,7 +81,7 @@ Want to center the icons in your readme? The SVGs are automatically resized, so 
   </a>
 </p>
 
-# Icons List
+# Lista de Ícones
 
 Here's a list of all the icons currently supported. Feel free to open an issue to suggest icons to add!
 
@@ -324,10 +326,18 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 
 ---
 
-## 💖 Support the Project
+## 💖 Apoie o projeto
 
 Thank you so much already for using my projects! If you want to go a step further and support my open source work, buy me a coffee:
 
 <a href='https://ko-fi.com/Q5Q860KQ2' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 To support the project directly, feel free to open issues for icon suggestions, or contribute with a pull request!
+
+##
+
+Credit: [Thijs](https://github.com/tandpfun)
+
+Tradução: [Wallace Rosendo](https://github.com/WallaceRosendo)
+
+<h6>Updated on: 26/07/2024</h6>
