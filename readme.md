@@ -12,11 +12,11 @@ NOTA 2: Para manter os ícones consistentes e garantir o suporte do navegador, n
 # Documentação
 
 - [Exemplo](#exemplo)
-- [Especificando ícones](#especificando-icones)
-- [Ícones tematizados](#icones-tematizados)
-- [Ícones por linha](#icones-por-linha)
-- [Centralizando ícones](#centralizando-icones)
-- [Lista de Ícones](#lista-de-icones)
+- [Especificando icones](#especificando-icones)
+- [Icones tematizados](#icones-tematizados)
+- [Icones por linha](#icones-por-linha)
+- [Centralizando icones](#centralizando-icones)
+- [Lista de ícones](#lista-de-ícones)
 
 # Exemplo
 
