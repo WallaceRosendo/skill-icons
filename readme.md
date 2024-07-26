@@ -7,7 +7,11 @@
 
 NOTA 1: Este repositório é apenas um fork traduzido para facilitar o acesso e a utilização. O [repositório original](https://github.com/tandpfun/skill-icons) pertence ao usuário [Thijs](https://github.com/tandpfun).
 
+
+
 NOTA 2: Para manter os ícones consistentes e garantir o suporte do navegador, não são aceitas solicitações de envios de ícones. Se você quiser que um ícone seja adicionado, abra uma issue no [repositório original](https://github.com/tandpfun/skill-icons).
+
+
 
 # Documentação
 
